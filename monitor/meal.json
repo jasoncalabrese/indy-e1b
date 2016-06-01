@@ -16,7 +16,7 @@
   xDrip_calculated_current_slope: 0,
   xDrip_age_adjusted_raw_value: 121,
   xDrip_calculated_value: 99 }
-Wed Jun 01 2016 15:27:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 15:27:21 GMT-0700 (PDT)
 >>>>glucose_data 1 { filtered: 122000,
   direction: 'Flat',
   noise: 1,
@@ -35,7 +35,7 @@ Wed Jun 01 2016 15:27:21 GMT-0700 (PDT)
   xDrip_calculated_current_slope: 0,
   xDrip_age_adjusted_raw_value: 121,
   xDrip_calculated_value: 99 }
-Wed Jun 01 2016 15:22:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 15:22:21 GMT-0700 (PDT)
 >>>>glucose_data 2 { filtered: 121000,
   direction: 'Flat',
   noise: 1,
@@ -54,7 +54,7 @@ Wed Jun 01 2016 15:22:21 GMT-0700 (PDT)
   xDrip_calculated_current_slope: 0,
   xDrip_age_adjusted_raw_value: 121,
   xDrip_calculated_value: 99 }
-Wed Jun 01 2016 15:17:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 15:17:21 GMT-0700 (PDT)
 >>>>glucose_data 3 { filtered: 119000,
   direction: 'Flat',
   noise: 1,
@@ -73,7 +73,7 @@ Wed Jun 01 2016 15:17:21 GMT-0700 (PDT)
   xDrip_calculated_current_slope: 0,
   xDrip_age_adjusted_raw_value: 121,
   xDrip_calculated_value: 99 }
-Wed Jun 01 2016 15:12:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 15:12:21 GMT-0700 (PDT)
 >>>>glucose_data 4 { filtered: 116000,
   direction: 'Flat',
   noise: 1,
@@ -92,7 +92,7 @@ Wed Jun 01 2016 15:12:21 GMT-0700 (PDT)
   xDrip_calculated_current_slope: 0.000006668934104262116,
   xDrip_age_adjusted_raw_value: 120,
   xDrip_calculated_value: 99 }
-Wed Jun 01 2016 15:07:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 15:07:21 GMT-0700 (PDT)
 >>>>glucose_data 5 { filtered: 114000,
   direction: 'Flat',
   noise: 1,
@@ -111,7 +111,7 @@ Wed Jun 01 2016 15:07:21 GMT-0700 (PDT)
   xDrip_calculated_current_slope: 0.000010004001600640255,
   xDrip_age_adjusted_raw_value: 119,
   xDrip_calculated_value: 97 }
-Wed Jun 01 2016 15:02:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 15:02:21 GMT-0700 (PDT)
 >>>>glucose_data 6 { filtered: 113000,
   direction: 'Flat',
   noise: 1,
@@ -130,7 +130,7 @@ Wed Jun 01 2016 15:02:21 GMT-0700 (PDT)
   xDrip_calculated_current_slope: 0.000010004001600640255,
   xDrip_age_adjusted_raw_value: 115,
   xDrip_calculated_value: 94 }
-Wed Jun 01 2016 14:57:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 14:57:21 GMT-0700 (PDT)
 >>>>glucose_data 0 { filtered: 121000,
   direction: 'Flat',
   noise: 1,
@@ -149,7 +149,7 @@ Wed Jun 01 2016 14:57:21 GMT-0700 (PDT)
   xDrip_calculated_current_slope: 0,
   xDrip_age_adjusted_raw_value: 121,
   xDrip_calculated_value: 99 }
-Wed Jun 01 2016 15:27:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 15:27:21 GMT-0700 (PDT)
 >>>>glucose_data 1 { filtered: 122000,
   direction: 'Flat',
   noise: 1,
@@ -168,7 +168,7 @@ Wed Jun 01 2016 15:27:21 GMT-0700 (PDT)
   xDrip_calculated_current_slope: 0,
   xDrip_age_adjusted_raw_value: 121,
   xDrip_calculated_value: 99 }
-Wed Jun 01 2016 15:22:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 15:22:21 GMT-0700 (PDT)
 >>>>glucose_data 2 { filtered: 121000,
   direction: 'Flat',
   noise: 1,
@@ -187,7 +187,7 @@ Wed Jun 01 2016 15:22:21 GMT-0700 (PDT)
   xDrip_calculated_current_slope: 0,
   xDrip_age_adjusted_raw_value: 121,
   xDrip_calculated_value: 99 }
-Wed Jun 01 2016 15:17:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 15:17:21 GMT-0700 (PDT)
 >>>>glucose_data 3 { filtered: 119000,
   direction: 'Flat',
   noise: 1,
@@ -206,7 +206,7 @@ Wed Jun 01 2016 15:17:21 GMT-0700 (PDT)
   xDrip_calculated_current_slope: 0,
   xDrip_age_adjusted_raw_value: 121,
   xDrip_calculated_value: 99 }
-Wed Jun 01 2016 15:12:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 15:12:21 GMT-0700 (PDT)
 >>>>glucose_data 4 { filtered: 116000,
   direction: 'Flat',
   noise: 1,
@@ -225,7 +225,7 @@ Wed Jun 01 2016 15:12:21 GMT-0700 (PDT)
   xDrip_calculated_current_slope: 0.000006668934104262116,
   xDrip_age_adjusted_raw_value: 120,
   xDrip_calculated_value: 99 }
-Wed Jun 01 2016 15:07:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 15:07:21 GMT-0700 (PDT)
 >>>>glucose_data 5 { filtered: 114000,
   direction: 'Flat',
   noise: 1,
@@ -244,7 +244,7 @@ Wed Jun 01 2016 15:07:21 GMT-0700 (PDT)
   xDrip_calculated_current_slope: 0.000010004001600640255,
   xDrip_age_adjusted_raw_value: 119,
   xDrip_calculated_value: 97 }
-Wed Jun 01 2016 15:02:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 15:02:21 GMT-0700 (PDT)
 >>>>glucose_data 6 { filtered: 113000,
   direction: 'Flat',
   noise: 1,
@@ -263,5 +263,5 @@ Wed Jun 01 2016 15:02:21 GMT-0700 (PDT)
   xDrip_calculated_current_slope: 0.000010004001600640255,
   xDrip_age_adjusted_raw_value: 115,
   xDrip_calculated_value: 94 }
-Wed Jun 01 2016 14:57:21 GMT-0700 (PDT)
+>>>bgTime Wed Jun 01 2016 14:57:21 GMT-0700 (PDT)
 {"carbs":38,"boluses":0,"mealCOB":33}
