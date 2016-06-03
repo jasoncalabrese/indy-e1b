@@ -34,7 +34,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-03T06:31:32", 
-    "raw": 122, 
+    "raw": 121, 
     "direction": "Flat", 
     "system_time": "2016-06-03T12:28:57", 
     "sgv": 123, 
@@ -178,7 +178,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-03T05:46:32", 
-    "raw": 111, 
+    "raw": 112, 
     "direction": "Flat", 
     "system_time": "2016-06-03T11:43:57", 
     "sgv": 108, 
@@ -226,7 +226,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-03T05:31:32", 
-    "raw": 105, 
+    "raw": 106, 
     "direction": "Flat", 
     "system_time": "2016-06-03T11:28:57", 
     "sgv": 102, 
@@ -434,7 +434,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-03T04:26:33", 
-    "raw": 120, 
+    "raw": 119, 
     "direction": "Flat", 
     "system_time": "2016-06-03T10:23:57", 
     "sgv": 129, 
@@ -450,7 +450,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-03T04:21:32", 
-    "raw": 131, 
+    "raw": 130, 
     "direction": "Flat", 
     "system_time": "2016-06-03T10:18:57", 
     "sgv": 136, 
@@ -562,7 +562,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-03T03:46:33", 
-    "raw": 137, 
+    "raw": 138, 
     "direction": "Flat", 
     "system_time": "2016-06-03T09:43:57", 
     "sgv": 133, 
@@ -722,7 +722,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-03T02:56:33", 
-    "raw": 133, 
+    "raw": 132, 
     "direction": "Flat", 
     "system_time": "2016-06-03T08:53:57", 
     "sgv": 134, 
@@ -834,7 +834,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-03T02:21:33", 
-    "raw": 135, 
+    "raw": 136, 
     "direction": "Flat", 
     "system_time": "2016-06-03T08:18:57", 
     "sgv": 130, 
@@ -866,7 +866,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-03T02:11:34", 
-    "raw": 126, 
+    "raw": 127, 
     "direction": "Flat", 
     "system_time": "2016-06-03T08:08:58", 
     "sgv": 123, 
@@ -1234,7 +1234,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-03T00:16:34", 
-    "raw": 138, 
+    "raw": 137, 
     "direction": "Flat", 
     "system_time": "2016-06-03T06:13:58", 
     "sgv": 140, 
@@ -1330,7 +1330,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-02T23:46:33", 
-    "raw": 150, 
+    "raw": 149, 
     "direction": "Flat", 
     "system_time": "2016-06-03T05:43:58", 
     "sgv": 157, 
@@ -1346,7 +1346,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-02T23:41:33", 
-    "raw": 158, 
+    "raw": 157, 
     "direction": "Flat", 
     "system_time": "2016-06-03T05:38:58", 
     "sgv": 163, 
@@ -1378,7 +1378,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-02T23:31:33", 
-    "raw": 168, 
+    "raw": 167, 
     "direction": "Flat", 
     "system_time": "2016-06-03T05:28:58", 
     "sgv": 171, 
@@ -1474,7 +1474,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-02T23:01:34", 
-    "raw": 175, 
+    "raw": 176, 
     "direction": "Flat", 
     "system_time": "2016-06-03T04:58:58", 
     "sgv": 171, 
@@ -1538,7 +1538,7 @@
   {
     "trend_arrow": "45_UP", 
     "display_time": "2016-06-02T22:41:34", 
-    "raw": 165, 
+    "raw": 166, 
     "direction": "FortyFiveUp", 
     "system_time": "2016-06-03T04:38:58", 
     "sgv": 149, 
@@ -1554,7 +1554,7 @@
   {
     "trend_arrow": "45_UP", 
     "display_time": "2016-06-02T22:36:34", 
-    "raw": 154, 
+    "raw": 155, 
     "direction": "FortyFiveUp", 
     "system_time": "2016-06-03T04:33:59", 
     "sgv": 140, 
@@ -1586,7 +1586,7 @@
   {
     "trend_arrow": "45_UP", 
     "display_time": "2016-06-02T22:26:34", 
-    "raw": 131, 
+    "raw": 132, 
     "direction": "FortyFiveUp", 
     "system_time": "2016-06-03T04:23:58", 
     "sgv": 122, 
@@ -1602,7 +1602,7 @@
   {
     "trend_arrow": "45_UP", 
     "display_time": "2016-06-02T22:21:34", 
-    "raw": 130, 
+    "raw": 131, 
     "direction": "FortyFiveUp", 
     "system_time": "2016-06-03T04:18:58", 
     "sgv": 117, 
@@ -1618,7 +1618,7 @@
   {
     "trend_arrow": "45_UP", 
     "display_time": "2016-06-02T22:16:34", 
-    "raw": 123, 
+    "raw": 124, 
     "direction": "FortyFiveUp", 
     "system_time": "2016-06-03T04:13:58", 
     "sgv": 108, 
@@ -1634,7 +1634,7 @@
   {
     "trend_arrow": "SINGLE_UP", 
     "display_time": "2016-06-02T22:11:34", 
-    "raw": 122, 
+    "raw": 123, 
     "direction": "SingleUp", 
     "system_time": "2016-06-03T04:08:58", 
     "sgv": 101, 
@@ -1650,7 +1650,7 @@
   {
     "trend_arrow": "45_UP", 
     "display_time": "2016-06-02T22:06:34", 
-    "raw": 111, 
+    "raw": 112, 
     "direction": "FortyFiveUp", 
     "system_time": "2016-06-03T04:03:58", 
     "sgv": 90, 
@@ -1666,7 +1666,7 @@
   {
     "trend_arrow": "45_UP", 
     "display_time": "2016-06-02T22:01:34", 
-    "raw": 95, 
+    "raw": 96, 
     "direction": "FortyFiveUp", 
     "system_time": "2016-06-03T03:58:58", 
     "sgv": 79, 
@@ -1858,7 +1858,7 @@
   {
     "trend_arrow": "SINGLE_DOWN", 
     "display_time": "2016-06-02T21:06:34", 
-    "raw": 77, 
+    "raw": 76, 
     "direction": "SingleDown", 
     "system_time": "2016-06-03T03:03:58", 
     "sgv": 94, 
@@ -1874,7 +1874,7 @@
   {
     "trend_arrow": "SINGLE_DOWN", 
     "display_time": "2016-06-02T21:01:34", 
-    "raw": 88, 
+    "raw": 87, 
     "direction": "SingleDown", 
     "system_time": "2016-06-03T02:58:59", 
     "sgv": 102, 
@@ -2098,7 +2098,7 @@
   {
     "trend_arrow": "NOT_COMPUTABLE", 
     "display_time": "2016-06-02T19:36:34", 
-    "raw": 165, 
+    "raw": 166, 
     "direction": "NOT COMPUTABLE", 
     "system_time": "2016-06-03T01:33:59", 
     "sgv": 156, 
@@ -2130,7 +2130,7 @@
   {
     "trend_arrow": "NOT_COMPUTABLE", 
     "display_time": "2016-06-02T15:41:36", 
-    "raw": 135, 
+    "raw": 136, 
     "direction": "NOT COMPUTABLE", 
     "system_time": "2016-06-02T21:39:01", 
     "sgv": 132, 
@@ -2146,7 +2146,7 @@
   {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-02T07:41:37", 
-    "raw": 124, 
+    "raw": 125, 
     "direction": "Flat", 
     "system_time": "2016-06-02T13:39:01", 
     "sgv": 118, 
