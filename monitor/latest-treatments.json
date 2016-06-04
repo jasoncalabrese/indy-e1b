@@ -1,13 +1,13 @@
 {
-  "_id": "5753301165110bbfc1931e54",
+  "_id": "57533d5e65110bbfc1931e59",
   "_type": "PumpSuspend",
-  "_description": "PumpSuspend 2016-06-04T12:45:08 head[2], body[0] op[0x1e]",
-  "timestamp": "2016-06-04T12:45:08-07:00",
+  "_description": "PumpSuspend 2016-06-04T13:41:30 head[2], body[0] op[0x1e]",
+  "timestamp": "2016-06-04T13:41:30-07:00",
   "_body": "",
   "_head": "1e01",
-  "_date": "48ad0c0410",
+  "_date": "5ea90d0410",
   "medtronic": "mm://openaps/mm-format-ns-treatments/PumpSuspend",
-  "created_at": "2016-06-04T12:45:08-07:00",
+  "created_at": "2016-06-04T13:41:30-07:00",
   "enteredBy": "openaps://medtronic/723",
   "eventType": "Note",
   "notes": "PumpSuspend 723 "
