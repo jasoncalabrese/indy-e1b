@@ -1492,10 +1492,7 @@
     "display_time": "2016-06-03T11:41:31", 
     "date": 1464979291000.0, 
     "dateString": "2016-06-03T11:41:31", 
-    "unfiltered": 195232, 
-    "filtered": 190560, 
     "device": "openaps://cgm", 
-    "rssi": 195, 
     "type": "sgv", 
     "glucose": 166
   }, 
