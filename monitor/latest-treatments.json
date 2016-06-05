@@ -1,16 +1,14 @@
 {
-  "_id": "575399f865110bbfc1931ed3",
-  "_type": "CalBGForPH",
-  "_description": "CalBGForPH 2016-06-04T20:16:57 head[2], body[0] op[0x0a]",
-  "timestamp": "2016-06-04T20:16:57-07:00",
+  "_id": "57539a9e65110bbfc1931ed5",
+  "_type": "PumpResume",
+  "_description": "PumpResume 2016-06-04T20:19:45 head[2], body[0] op[0x1f]",
+  "timestamp": "2016-06-04T20:19:45-07:00",
   "_body": "",
-  "_head": "0a91",
-  "amount": 145,
-  "_date": "7990346410",
-  "eventType": "BG Check",
-  "glucose": 145,
-  "glucoseType": "Finger",
-  "medtronic": "mm://openaps/mm-format-ns-treatments/CalBGForPH",
-  "created_at": "2016-06-04T20:16:57-07:00",
-  "enteredBy": "openaps://medtronic/723"
+  "_head": "1f20",
+  "_date": "6d93140410",
+  "medtronic": "mm://openaps/mm-format-ns-treatments/PumpResume",
+  "created_at": "2016-06-04T20:19:45-07:00",
+  "enteredBy": "openaps://medtronic/723",
+  "eventType": "Note",
+  "notes": "PumpResume 723 "
 }
