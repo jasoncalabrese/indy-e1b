@@ -1,5 +1,24 @@
 [
   {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-06-05T18:23:05 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-06-05T18:23:05-07:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "4597124510"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-06-05T18:23:05 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-06-05T18:23:05-07:00", 
+    "_body": "00", 
+    "_head": "3302", 
+    "rate": 0.05, 
+    "_date": "4597124510"
+  }, 
+  {
     "_type": "Bolus", 
     "_description": "Bolus 2016-06-05T18:12:51 head[8], body[0] op[0x01]", 
     "timestamp": "2016-06-05T18:12:51-07:00", 
@@ -816,35 +835,5 @@
     "_head": "5b00", 
     "bolus_estimate": 0.85, 
     "_date": "4f980c0510"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "_description": "TempBasalDuration 2016-06-05T12:18:45 head[2], body[0] op[0x16]", 
-    "timestamp": "2016-06-05T12:18:45-07:00", 
-    "_body": "", 
-    "_head": "1601", 
-    "duration (min)": 30, 
-    "_date": "6d920c4510"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2016-06-05T12:18:45 head[2], body[1] op[0x33]", 
-    "timestamp": "2016-06-05T12:18:45-07:00", 
-    "_body": "00", 
-    "_head": "3336", 
-    "rate": 1.35, 
-    "_date": "6d920c4510"
-  }, 
-  {
-    "_type": "BasalProfileStart", 
-    "_description": "BasalProfileStart 2016-06-05T12:16:22 head[2], body[3] op[0x7b]", 
-    "timestamp": "2016-06-05T12:16:22-07:00", 
-    "_body": "161400", 
-    "profile_index": 5, 
-    "_head": "7b05", 
-    "rate": 0.5, 
-    "offset": 39600000, 
-    "_date": "56900c0510"
   }
 ]
