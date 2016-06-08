@@ -1,5 +1,35 @@
 [
   {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-06-07T20:58:11 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-06-07T20:58:11-07:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "4bba144710"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-06-07T20:58:11 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-06-07T20:58:11-07:00", 
+    "_body": "00", 
+    "_head": "332c", 
+    "rate": 1.1, 
+    "_date": "4bba144710"
+  }, 
+  {
+    "_type": "BasalProfileStart", 
+    "_description": "BasalProfileStart 2016-06-07T20:57:51 head[2], body[3] op[0x7b]", 
+    "timestamp": "2016-06-07T20:57:51-07:00", 
+    "_body": "271c00", 
+    "profile_index": 8, 
+    "_head": "7b08", 
+    "rate": 0.7, 
+    "offset": 70200000, 
+    "_date": "73b9140710"
+  }, 
+  {
     "programmed": 0.9, 
     "_type": "Bolus", 
     "_description": "Bolus 2016-06-07T20:40:24 head[8], body[0] op[0x01]", 
@@ -810,43 +840,5 @@
     "_head": "332d", 
     "rate": 1.125, 
     "_date": "6aba0e4710"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "_description": "TempBasalDuration 2016-06-07T14:52:56 head[2], body[0] op[0x16]", 
-    "timestamp": "2016-06-07T14:52:56-07:00", 
-    "_body": "", 
-    "_head": "1601", 
-    "duration (min)": 30, 
-    "_date": "78b40e4710"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2016-06-07T14:52:56 head[2], body[1] op[0x33]", 
-    "timestamp": "2016-06-07T14:52:56-07:00", 
-    "_body": "00", 
-    "_head": "3320", 
-    "rate": 0.8, 
-    "_date": "78b40e4710"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "_description": "TempBasalDuration 2016-06-07T14:48:30 head[2], body[0] op[0x16]", 
-    "timestamp": "2016-06-07T14:48:30-07:00", 
-    "_body": "", 
-    "_head": "1601", 
-    "duration (min)": 30, 
-    "_date": "5eb00e4710"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2016-06-07T14:48:30 head[2], body[1] op[0x33]", 
-    "timestamp": "2016-06-07T14:48:30-07:00", 
-    "_body": "00", 
-    "_head": "331b", 
-    "rate": 0.675, 
-    "_date": "5eb00e4710"
   }
 ]
