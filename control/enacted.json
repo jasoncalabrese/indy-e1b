@@ -1,0 +1,30 @@
+{
+  "bg": 60, 
+  "temp": "absolute", 
+  "snoozeBG": -24, 
+  "recieved": true, 
+  "predBGs": {
+    "IOB": [
+      60, 
+      54, 
+      47, 
+      41, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39
+    ]
+  }, 
+  "rate": 0.0, 
+  "reason": "COB: undefined, Dev: -37, BGI: 0.19, ISF: 96.4, Target: 84; BG 60<67", 
+  "eventualBG": -48, 
+  "timestamp": "2016-06-10T08:58:11.787189", 
+  "duration": 30, 
+  "tick": -7, 
+  "IOB": 0.737
+}
