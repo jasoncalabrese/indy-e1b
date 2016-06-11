@@ -1,5 +1,24 @@
 [
   {
+    "_type": "BGReceived", 
+    "_description": "BGReceived 2016-06-11T14:33:21 head[2], body[3] op[0x3f]", 
+    "timestamp": "2016-06-11T14:33:21-07:00", 
+    "_body": "c23647", 
+    "_head": "3f0c", 
+    "amount": 102, 
+    "link": "c23647", 
+    "_date": "55a1ce6b10"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-06-11T14:33:21 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-06-11T14:33:21-07:00", 
+    "_body": "", 
+    "_head": "0a66", 
+    "amount": 102, 
+    "_date": "55a12e6b10"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "_description": "TempBasalDuration 2016-06-11T14:13:51 head[2], body[0] op[0x16]", 
     "timestamp": "2016-06-11T14:13:51-07:00", 
@@ -636,47 +655,5 @@
     "_head": "3300", 
     "rate": 0.0, 
     "_date": "4ea4080b10"
-  }, 
-  {
-    "_type": "BasalProfileStart", 
-    "_description": "BasalProfileStart 2016-06-11T08:29:27 head[2], body[3] op[0x7b]", 
-    "timestamp": "2016-06-11T08:29:27-07:00", 
-    "_body": "0d1700", 
-    "profile_index": 4, 
-    "_head": "7b04", 
-    "rate": 0.575, 
-    "offset": 23400000, 
-    "_date": "5b9d080b10"
-  }, 
-  {
-    "programmed": 1.25, 
-    "_type": "Bolus", 
-    "_description": "Bolus 2016-06-11T08:15:09 head[8], body[0] op[0x01]", 
-    "timestamp": "2016-06-11T08:15:09-07:00", 
-    "_body": "", 
-    "_head": "0100320032000000", 
-    "amount": 1.25, 
-    "unabsorbed": 0.0, 
-    "duration": 0, 
-    "type": "normal", 
-    "_date": "498f280b10"
-  }, 
-  {
-    "_type": "BolusWizard", 
-    "bg": 0, 
-    "_description": "BolusWizard 2016-06-11T08:15:09 head[2], body[15] op[0x5b]", 
-    "timestamp": "2016-06-11T08:15:09-07:00", 
-    "_body": "1250008c50730000320000000032a0", 
-    "carb_input": 18, 
-    "bg_target_high": 160, 
-    "sensitivity": 80, 
-    "carb_ratio": 14.0, 
-    "food_estimate": 1.25, 
-    "unabsorbed_insulin_total": 0.0, 
-    "correction_estimate": 0.0, 
-    "bg_target_low": 115, 
-    "_head": "5b00", 
-    "bolus_estimate": 1.25, 
-    "_date": "498f080b10"
   }
 ]
