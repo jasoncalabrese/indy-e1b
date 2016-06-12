@@ -1,6 +1,22 @@
 [
   {
     "trend_arrow": "FLAT", 
+    "display_time": "2016-06-12T00:43:24-07:00", 
+    "system_time": "2016-06-12T06:40:48-07:00", 
+    "direction": "Flat", 
+    "sgv": 96, 
+    "dateString": "2016-06-12T00:43:24-07:00", 
+    "date": 1465717404000, 
+    "unfiltered": 95760, 
+    "filtered": 96816, 
+    "device": "openaps://cgm", 
+    "rssi": 194, 
+    "_id": "575d136d65110bbfc1932d5a", 
+    "type": "sgv", 
+    "glucose": 96
+  }, 
+  {
+    "trend_arrow": "FLAT", 
     "display_time": "2016-06-12T00:38:24-07:00", 
     "system_time": "2016-06-12T06:35:48-07:00", 
     "direction": "Flat", 
@@ -5237,25 +5253,6 @@
     "filtered": 150000, 
     "xDrip_calculated_current_slope": 0, 
     "_id": "575c239365110bbfc1932b60", 
-    "type": "sgv"
-  }, 
-  {
-    "direction": "Flat", 
-    "noise": 1, 
-    "sysTime": "2016-06-11T05:56:47.298-0700", 
-    "xDrip_calculated_value": 110, 
-    "xDrip_raw": 146, 
-    "dateString": "2016-06-11T05:56:47.298-0700", 
-    "sgv": 110, 
-    "date": 1465649807298, 
-    "xDrip_filtered": 150, 
-    "xDrip_age_adjusted_raw_value": 146, 
-    "unfiltered": 146000, 
-    "rssi": 100, 
-    "device": "xDrip-DexcomShare", 
-    "filtered": 150000, 
-    "xDrip_calculated_current_slope": -1.3331378064550533e-05, 
-    "_id": "575c0ab165110bbfc1932af9", 
     "type": "sgv"
   }
 ]
